@@ -20,6 +20,7 @@ Hacktoberfest encourages participation in the open source community, which grows
  - 💻 Java
  - 💻 Javascript
  - 💻 Go
+ - 💻 C#
 
 ## Programs
  - Write a program to print the sum of digit of a number.
@@ -30,6 +31,7 @@ Hacktoberfest encourages participation in the open source community, which grows
  - Write a program to find all setbits in a number.
  - Write a program to print the Floyds triangle.
  - Write a program to swap the values of two variables.
+ -------Thanks For Contributing--------
  - Write a program to find given number is power of two or not.
  - Write a program to print the reverse of a given string.
  - Write a program to merge two sorted array without extra space.
